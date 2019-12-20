@@ -10,7 +10,7 @@ public class AWT {
 		 Label l=new Label("Well come frame");
 		 f.add(l);
 		 f.setSize(2000,3000);
-		 f.setTitle("Awt Applet Demo");
+		 f.setTitle("Awt servlet Demo");
 		 f.setVisible(true);
 		 
 	}  
