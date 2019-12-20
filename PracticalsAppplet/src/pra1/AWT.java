@@ -9,7 +9,7 @@ public class AWT {
 		 Frame f=new Frame();
 		 Label l=new Label("Well come frame");
 		 f.add(l);
-		 f.setSize(3000,3000);
+		 f.setSize(2000,3000);
 		 f.setTitle("Awt Demo");
 		 f.setVisible(true);
 		 
